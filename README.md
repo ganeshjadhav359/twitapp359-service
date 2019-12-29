@@ -1,6 +1,6 @@
-# NodeJs-Nobel-prize-app
+# NodeJs twitapp359-service
 
-NodeJs application to play with twitter's apis such as pull tweets for user from his home timeline,search tweets by hashtag.
+NodeJs application to play with twitter's apis such as pull tweets for user from his/her home timeline,search tweets by hashtag.
 
 ## Getting Started
 

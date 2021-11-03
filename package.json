@@ -24,6 +24,6 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
     "twitter": "^1.7.1",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
